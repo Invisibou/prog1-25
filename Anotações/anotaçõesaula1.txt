@@ -1,0 +1,71 @@
+"A Ciência da Computação é a única ciência que é exclusiva para ajudar outras áreas."
+
+
+IDE = Integrated Development Environment
+
+ASP =  Active Server Pages
+
+	RAZOR / BLAZOR - futuro da navegação via browser, trazendo compilação.
+
+ORM = OBJECT RELATIONAL MAPPING
+
+APLICAÇÃO WEB 
+Opera em uma arquitetura Client / Server
+
+
+Nessa operação, o cliente é o nosso computador, a máquina
+
+tracert unoesc.edu.br
+
+Rastreia a rota da Unoesc, claro, você pode rastrear em qualquer outro site.
+O unoesc.edu.br é um nome fantasia, no www está endereçado o IP de domínio, que vai aparecer quando você rastrear, alguns sites podem ser acessados através do IP.
+
+DNS - DOMAIN NAME SYSTEM
+
+
+HTTP / HTTPS = HYPER TEXT TRANSFER PROTOCOL (SECURE)
+
+HTML = HYPER TEXT MARKUP LANGUAGE
+
+HYPER TEXTO PODE SER IMAGEM, SOM, VÍDEO...
+
+Controlador responde aos comandos da aplicação.
+
+Visão: VI - User Interface
+
+Route Navigation -> 
+	Client -> 
+		HTTP(S) -> 
+			Server -> Aplication - WebApp -
+				.Net MVC - > 
+					*MVC (É uma arquitetura)* = Model, View, Controller
+						Modelo = Especifica os dados que conpõem o modelo do app.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MySQL -	Oracle - Postgre - SQLServer - MariaDB - MongoDB
+
+SHBD - Sistema Gerenciador de Banco de Dados
+
+DBA = DataBase Administrator 
+
+SQL = Structured Query Language
+
+Site para baixar o SQL --> https://www.mysql.com/
+Arraste até o final e Baixe o Server
+
+Hostname: É o IP que a máquina interpreta como padrão, logo ela vai interpretar o local dela como ela mesma caso seja o ip 127.0.0.1, 
+Imaginando que você está no WhatsApp, é como se você mandasse mensagem para sí mesmo.
+
+DDL = Data Definition Language
+DML = Data Manipulation Language
+DQL = Data Query Language
+
+
+Resposta do Copilot
+
+ERP = significa Enterprise Resource Planning, ou seja, Planejamento dos Recursos da Empresa. É um software que automatiza processos,
+armazena dados e unifica a visualização de resultados em uma única plataforma. 
+
+
+Engenharia reversa - pegar o que já está feito e fazer o desenho encima.
+
