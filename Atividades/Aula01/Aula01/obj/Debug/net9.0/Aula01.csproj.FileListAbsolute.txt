@@ -96,3 +96,4 @@ C:\Users\429035\2025\Programação_1\Atividades\Aula01\Aula01\obj\Debug\net9.0\r
 C:\Users\429035\2025\Programação_1\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.pdb
 C:\Users\429035\2025\Programação_1\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.genruntimeconfig.cache
 C:\Users\429035\2025\Programação_1\Atividades\Aula01\Aula01\obj\Debug\net9.0\ref\Aula01.dll
+C:\Users\429035\2025\Programação_1\Atividades\Aula01\Aula01\obj\Debug\net9.0\Aula01.sourcelink.json
