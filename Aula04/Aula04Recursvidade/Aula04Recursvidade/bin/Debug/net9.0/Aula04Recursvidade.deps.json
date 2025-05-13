@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Aula04Recursvidade/1.0.0": {
+        "runtime": {
+          "Aula04Recursvidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula04Recursvidade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

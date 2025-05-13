@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula04\\Aula04RecurssividadeEspelho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C512EA-F733-4B4B-ABB1-CDFE90B6DED3}|Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula04\\aula04recurssividadeespelho\\aula04recurssividadeespelho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C512EA-F733-4B4B-ABB1-CDFE90B6DED3}|Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho.csproj|solutionrelative:aula04recurssividadeespelho\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C512EA-F733-4B4B-ABB1-CDFE90B6DED3}|Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula04\\aula04recurssividadeespelho\\aula04recurssividadeespelho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C512EA-F733-4B4B-ABB1-CDFE90B6DED3}|Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho.csproj|solutionrelative:aula04recurssividadeespelho\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula04\\Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Aula04RecurssividadeEspelho\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula04\\Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Aula04RecurssividadeEspelho\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T23:06:20.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula04\\Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula04RecurssividadeEspelho\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula04\\Aula04RecurssividadeEspelho\\Aula04RecurssividadeEspelho\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula04RecurssividadeEspelho\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:57:03.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

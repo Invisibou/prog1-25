@@ -1,0 +1,28 @@
+PROTOCOLO HTTP
+TEMPLATES
+GET
+POST
+PUT
+DELETE
+
+Laços, características:
+Flag, contador, acumulador.
+
+Tipos de laços:
+For
+For Each
+Do
+Do While
+
+Chamada recusiva: Quando a função pode chamar a ela mesma (Limitada ao tamanho da pilha de execução)
+
+Atividade
+1) Escreva um programa recursivo em C Sharp para imprimir os números de n até 1 (decrescente);
+
+2) Escreva um programa em C# capaz de sumarizar os números de 1 a n
+por exemplo: n = 10 [1+2+3+4+5+6+7+8+9+10]
+ 
+3) Escreva um programa recursivo em C# capaz de contar quantos caracteres tem em uma string;
+
+4) Escreva um programa recursivo, que seja capaz de identificar se uma palavra é ou não é um PALÍNDROMO: OVO, ARARA, MUSSUM, RADAR, ETC
+

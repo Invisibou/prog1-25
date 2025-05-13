@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\controllers\\testecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\teste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\models\\variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\teste\\teste.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula01\\aula01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DDED3327-6A17-46DA-98F5-EB9CC127B9BE}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +54,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teste.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Teste\\Teste.cshtml",
+              "RelativeDocumentMoniker": "Aula01\\Views\\Teste\\Teste.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Teste\\Teste.cshtml",
+              "RelativeToolTip": "Aula01\\Views\\Teste\\Teste.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T23:48:01.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Teste\\Index.cshtml",
+              "RelativeDocumentMoniker": "Aula01\\Views\\Teste\\Index.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Teste\\Index.cshtml",
+              "RelativeToolTip": "Aula01\\Views\\Teste\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T23:47:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TesteController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Controllers\\TesteController.cs",
+              "RelativeDocumentMoniker": "Aula01\\Controllers\\TesteController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Controllers\\TesteController.cs",
+              "RelativeToolTip": "Aula01\\Controllers\\TesteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:17:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Variaveis.cs",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Models\\Variaveis.cs",
               "RelativeDocumentMoniker": "Aula01\\Models\\Variaveis.cs",
               "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Models\\Variaveis.cs",
               "RelativeToolTip": "Aula01\\Models\\Variaveis.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwCkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T23:22:17.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Aula01\\Views\\_ViewStart.cshtml",
@@ -63,38 +114,35 @@
               "RelativeToolTip": "Aula01\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:59:18.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:59:18.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Aula01\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Aula01\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:54:55.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:54:55.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Aula01\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T00:52:59.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:52:59.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula01\\Controllers\\HomeController.cs",
@@ -102,12 +150,11 @@
               "RelativeToolTip": "Aula01\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T00:50:01.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T00:50:01.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula01\\Aula01\\Program.cs",
               "RelativeDocumentMoniker": "Aula01\\Program.cs",

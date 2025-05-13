@@ -1,0 +1,157 @@
+OO -> Orientada a Objetos
+POO -> Programação Orientada a Objetos = OOP -> Object Orientation Program
+POG -> Programação Orientada a Gambiarra
+
+API -> Serviço distribuído, serve para conectar um sistema a outro, tipo um Gateway
+Acess Program Interface.
+
+Paradigma é tipo um procípio, quando falamos "Quebrar paradigmas", é mudar a forma de fazer algo.
+
+1) Identifique as classes dos requisitos ou especificações para definir as entidades da aplicação;
+
+2) Analise as classes identificadas e separe as responsabilidades.
+Tenha em mente que a aplicação poderá ser decomposta com o mínimo de impacto.
+
+3) Estabeleça os relacionamentos entre as classes para que os objetos possam operar em conjunto na resolução da proposta do software;
+
+4) Reutilize. Construa seu código pensando em reaproveitamento do código para evitar repetições e facilitar manutenções;
+
+
+
+Classe -> Você define a classe, você escreve a classe, a palavra-chave é "class"
+Formada por propriedades, funções/métodos que compõem os membros da classe, quando você escreve uma função, um procedimento, por exemplo, você está definindo os membros
+da classe.
+
+public class Customer
+{
+      public int CustomerId { get; set; }
+      public string EmailAddress { get; set; }
+      public string FirstName { get; set; }
+      public string LastName { get; set; }
+      public bool validate() { ... } 
+}
+
+Quando você vai escolher um personagem em um jogo, você pode escolher a classe, os atributos deles mudam. Por exemplo, um arqueiro tem um atributo (ele tem mais mira),
+um bárbaro tem outros (ele é mais forte), um clérigo tem outras (tem mais religião).
+
+
+Objeto -> é uma instancia dentro da classe, ocupa um espaço na memória do computador, é uma variável que você criou, está pronta para ser usada a qualquer momento.
+Variável que possibilita o acesso aos métodos e propriedades especificadas pela classe. O personagem que você cria no jogo, que você vê, que você mexe, é a 
+representação gráfica, ele é o objeto (Que pode receber os atributos da classe que você definir para ele).
+Se você cria uma variável, o "=" é um "igual" no sentido de atribuição.
+Os objetos possuem o formato especificado pela classe, porém, cada um deles podem armazenar valores diferentes em suas propriedades ocasionado comportamentos diferentes em
+seus métodos.
+
+
+Se tem parênteses, é um método.
+
+var customer = new Customer(); //Customer é consumidor em inglês
+
+customer.firstname = "Frodo";
+
+customer.Validate();
+
+
+Métodos -> Podemos definir como se fossem verbos (correr, andar, pular, nadar...)
+
+A classe é a forminha de montar as bolachas, o objeto é os biscoitinhos, cada um é diferente, um é salgado, outro é doce, outro é em um formato, outro em outro formato, mas
+a forma para criar os biscoitos foi a mesma.
+
+Business Objects são as classes que são projetadas para solucionar problemas de um determinado domínio de aplicação do software.
+Se formos definir os atributos do personagem no nosso jogo, a gente define o quanto iremos colocar em carísma, força, agilidade... 
+
+
+Certamente teríamos uma definição de classe Consumidor em um sistema comercial, contendo nome e e-mail como propriedades, por exemplo.
+
+*Entidade*
+
+A tabela do banco de dados é uma entidade, a entidade define o modelo do banco.
+
+Entidade é qualquer coisa importante do domínio da aplicação 
+As etnidades que identificamos no nosso banco, viraram tabelas, por exemplo
+
+Eu vou olhar o contexto, ou seja, o domínio da minha aplicação, separar as entidades, para cada uma vou especificar uma classe, vou definir os atributos e os métodos, a partir
+disso terei os objetos
+
+Uma abordagem par aprojetar e construir aplicações que são:
+- Flexíveis;
+- Naturais;
+- Bem elaboradas;
+- Testáveis;
+Focada em objetos que interagem uns com os outros.
+
+Para especificar alguns objetos, termos podem não ser obrigatórios, eles só agregam a pessoa. Agora, se tirarem a alma da pessoa, isso compõe a pessoa, então será "Not Null".
+
+Banco de dados: Precisa ter Alta coesão e Baixo acoplamento.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Você recebeu uma solicitação por e-mail de uma amiga veterinária, informando que está com problemas para gerenciar os atendimentos dos pets.
+Na mensagem, ela diz que gostaria de ter registros dos animais, que precisa também dos dados dos seus parceiros veterinários que atendem no centro clínico para poder
+saber quais médicos atenderam quais animais em um determinado período de tempo, ou até mesmo, registrar quais procedimentos foram realizados com os animais nos últimos atendimentos.
+
+Atendimento (Animal_Identificado, Parceiros Clinicos, Veterinário, yyyy/mm/dd, horário, procedimentos {Receitas}, Forma de atendimento {Convênio, Rua, Rotina}, situação {Saúde, vacinas, alergias})
+Animais (Tipo, animal, Nome, raça, cor, dono, pelagem, identificação digital {Nariz, pata}, sexo, descrição, tamanho, peso, idade)
+
+Correção:
+
+Veterinário - 
+.Nome, Email, Telefone, CRM
+.Salvar()
+.Retornar()
+
+Atendimento - o atendimento tem relação com animal e veterinário.
+.Nome, Raça, Peso, Altura, Tutor, Telefone_Tutor
+.Salvar()
+.Retornar()
+
+Animal - 
+.Data/Hora, Animal, Veterinário, Observação
+.Salvar()
+.Retornar()
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+O tempo é a quarta dimensão, ele é necessário em qualquer registro, pois se houver alguma mudança posterior, os registros antigos não serão alterados.
+
+Abstração: O processo de abstração dependerá dos requisitos da aplicação. Em nosso caso, temos a ENTIDADE Veterinário, onde faz-se necessário registrar poucos dados (Nome, Email, Telefone, CRM) devido ao escopo reduzido do problema, mas,
+se estivessemos modelando um sistema mais robusto para aplicações diversas, certamente precisaríamos de amis informações sobre o veterinário, como endereço, especialidade, etc.
+
+Encapsulamento: Técnica para 'esconder' os dados e os detalhes da implementação e uma classe.
+
+Utilizado para garantir que os outros códigos do sistema não se preocupem em saber os detalhes da implementação.
+
+
+4 pilares da OOP: Abstração e Encapsulamento.
+
+Classes entidades
+
+Save = P E R S I S T I R Podemos interpretar como "manter os dados";
+
+Organizando a Estrutura da Aplicação em CAMADAS
+
+.Camada de Interface do Usuário;
+
+.Camada de Lógica de Negócios;
+
+.Camada de Acesso a Dados;
+
+.Camada de Código Comum;
+
+A vantagem de separar em camadas é muita questão de organização também
+
+Variáveis de tipos primitivos podem não ser considerados objetos por terem somente valores atribuídos.
+
+T.A.D: Tipo abstrato de dados (Uma representação abstrato de algo do mundo real. Exemplo: Vendedores, Produto, Nota)
+
+
+var c1 = new customer();
+c1.FirstName = "Bilbo";
+
+var c2 = c1;
+c2.FirstName = "Frodo";
+
+
+Agora c1 e c2 se chamam frodo
+Nesse caso, quando a gente não coloca o new customer e a gente altera o valor de c2, estamos alterando o valor dos dois pois c2 está "apontando" para c1, intepretando que a mudança da varíavel se aplica aos dois, agora se var c2
+tivesse um = new customer() seria outra história.
+
+Objetos são sempre tipos referênciados
+
+Quando criamos uma classe com 

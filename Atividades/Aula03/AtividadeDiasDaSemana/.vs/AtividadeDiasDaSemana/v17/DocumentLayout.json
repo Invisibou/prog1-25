@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula03\\AtividadeDiasDaSemana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FCA4F6-812E-43AF-857C-948CF389B602}|AtividadeDiasDaSemana\\AtividadeDiasDaSemana.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividades\\aula03\\atividadediasdasemana\\atividadediasdasemana\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FCA4F6-812E-43AF-857C-948CF389B602}|AtividadeDiasDaSemana\\AtividadeDiasDaSemana.csproj|solutionrelative:atividadediasdasemana\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula03\\AtividadeDiasDaSemana\\AtividadeDiasDaSemana\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AtividadeDiasDaSemana\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Atividades\\Aula03\\AtividadeDiasDaSemana\\AtividadeDiasDaSemana\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AtividadeDiasDaSemana\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:45:08.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

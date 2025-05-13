@@ -1,0 +1,8 @@
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.AssemblyInfoInputs.cache
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.AssemblyInfo.cs
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.RazorAssemblyInfo.cache
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.RazorAssemblyInfo.cs
+C:\Users\429035\2025\Programação_1\Atividades\Aula03\AtividadeDiasDaSemana\AtividadeDiasDaSemana\obj\Debug\net9.0\AtividadeDiasDaSemana.sourcelink.json

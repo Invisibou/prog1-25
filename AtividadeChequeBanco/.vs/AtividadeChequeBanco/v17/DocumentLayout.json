@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividadechequebanco\\atividadechequebanco\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|solutionrelative:atividadechequebanco\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividadechequebanco\\atividadechequebanco\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|solutionrelative:atividadechequebanco\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\atividadechequebanco\\atividadechequebanco\\controllers\\arraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72F7E19-2E49-426D-B555-01E4D3558F5A}|AtividadeChequeBanco\\AtividadeChequeBanco.csproj|solutionrelative:atividadechequebanco\\controllers\\arraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AtividadeChequeBanco\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AtividadeChequeBanco\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:35:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AtividadeChequeBanco\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AtividadeChequeBanco\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:19:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Controllers\\ArrayController.cs",
+              "RelativeDocumentMoniker": "AtividadeChequeBanco\\Controllers\\ArrayController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\AtividadeChequeBanco\\AtividadeChequeBanco\\Controllers\\ArrayController.cs",
+              "RelativeToolTip": "AtividadeChequeBanco\\Controllers\\ArrayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:23:32.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
