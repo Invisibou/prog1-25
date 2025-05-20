@@ -14,17 +14,12 @@ namespace Modelo
         public float CurrentPrice { get; set; }
         public bool Validade()
         {
-            return true;
-        }
-        public Product Retrieve()
-        {
-            return new Product();
-        }
+            bool isValid = true;
 
-        public void Save(Product product)
-        {
+            isValid = !string.IsNullOrEmpty(this.Name) && (this.IdProduct > 0) && (this.CurrentPrice > 0);
 
-
+            return isValid;
         }
+        
     }
 }

@@ -1,1 +1,82 @@
-	
+Anaminese - Entrevista de médico para saber o que você ta sentindo.
+
+Programação Orientada a Objeto - Construindo as Classes Entidades e definindo Métodos.
+
+Quando é definido um atributo ou método como estático, a característica passa a ser determinada pela classe, não pelo objeto.
+
+Quando usamos um "this", é para se referir ao escopo incluido na classe, é uma boa prática para evitar ambiguidades
+
+Termos: ASSINATURA DO MÉTODO
+
+. Composto pelo nome e conjunto de parâmetros e seus tipos;
+
+. Não inclui o tipo de retorno;
+
+. Utilizado pelo sistema para orientar as chamadas de funções;
+
+. Cada assinatura de um método na classe deve ser único;
+
+. Mas se possuirmos métodos com parâmetros diferentes eles podem ter o mesmo nome;
+
+Termos: SOBRECARGA/OBERLOADING
+
+. Usado para descrever métodos que possuem o mesmo nome com diferentes parâmetros;
+
+. Métodos que são especificados com o mesmo nome, devem prover variações da mesma funcionalidade;
+
+. No exemplo, um método retorna um Customer, enquanto o outro retorna uma coleção de consumidores List<Customers>;
+
+. Utilizamos Void quando não houver nada para retornar.
+
+Termos: CONTRACT
+
+. As especificações dos modificadores de acesso definem o contrato da classe. Quais atributos e métodos estarão visíveis, para quem e em que nível de acesso.
+
+Termos: Construtores
+
+. Um tipo especial de método com o mesmo nome da classe;
+
+. Geralmente definidos no primeiro parágrafo da classe;
+
+. É o método executado quando um objeto do tipo da classe é criado;
+
+. Um método construtor sem parâmetros é definido como construtor padrão (default constructor);
+
+. Podemos fazer a sobrecarga (overloading) de construtores;
+
+
+SEPARAÇÃO DE RESPONSABILIDADES.
+
+. Mantenha suas classes focadas mantendo as responsabilidades bem definidas;
+
+. Imagine uma empres em que o Presidente é responsável por tudo. Isto não é uma boa idéia, conforme o negócio cresce ele precisará delegar responsabildiades para outras pessoas;
+
+. O mesmo ocorre com nossa aplicação, conforme ela cresce, fica difícil de mantê-la se as responsabilidades não estiverem bem definidas;
+
+Minimizar o acoplamento:
+
+Acoplamento é o grau de dependência de uma classe para com outras ou com recursos externos;
+
+Quando
+
+Maximizar Coesão
+
+. É uma medida de quão relacionado tudo na classe é ao propósito da classe;
+
+. Se houverem métodos ou atributos que não são relacionados ao propósito da classe eles devem ser movidos para outra classe;
+
+. Por exemplo, o endereço de entrega. Ele possui muitos atributos e informações que não são especificamente do pedido, nem do consumidor, mas do endereço em sua essência;
+
+. Assim, poderíamos mover a especificação de endereço para uma classe definida para ela;
+
+Bordões:
+. YAGNI - You Aren't Gonna Need It
+ . Não adicione código em suas classes até que eles sejam realmente necessários;
+
+. KISS - Keep It Simple, Stupid!
+ . Mantenha as coisas simples. Se está complicado provavelmente está errado;
+
+. DRY - Don't Repeat Yourself
+ . Escreva classes e métodos de modo que eles possam ser reaproveitados; 
+
+PADRÃO DE REPOSITÓRIO

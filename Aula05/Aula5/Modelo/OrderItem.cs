@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Modelo
 {
-    class OrderItem
+    public class OrderItem
     {
         public int Id { get; set; }
         public Product? Product { get; set; }
@@ -14,7 +14,14 @@ namespace Modelo
         public double PurchasePrice { get; set; }
         public bool Validade()
         {
-            return true;
+            bool isValid = true;
+
+            isValid = (this.Id > 0) &&
+                      (Quantity > 0) &&
+                      (PurchasePrice > 0) &&
+                      Product != null;
+
+            return isValid;
         }
         public OrderItem Retrieve()
         {

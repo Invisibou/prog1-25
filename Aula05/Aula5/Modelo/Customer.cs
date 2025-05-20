@@ -14,6 +14,9 @@ namespace Modelo
         public string? HomeAdress { get; set; }
         public string? WorkAddres { get; set; }
 
+
+        public Adress Adress  { get; set; }
+
         public static int InstanceCount = 0;
         public int ObjectCount = 0;
 
@@ -21,15 +24,6 @@ namespace Modelo
         {
             return true;
         }
-        public Customer Retrieve()
-        {
-            return new Customer();
-        }
-
-        public void Save(Customer customer)
-        {
-
-
-        }
+        
     }
 }
