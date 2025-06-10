@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|c:\\users\\429035\\2025\\programa\u00E7\u00E3o_1\\aula05\\aula5\\aula5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175BACC3-DCAA-48AB-B2F1-2533BF1024F3}|Aula5\\Aula5.csproj|solutionrelative:aula5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Aula5\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "Aula5\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:25:51.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aula5\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Aula5\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:25:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Aula5\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Aula5\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:25:42.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Aula5\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Aula5\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:25:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Aula5\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Aula5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:24:49.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Aula5\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\429035\\2025\\Programa\u00E7\u00E3o_1\\Aula05\\Aula5\\Aula5\\Controllers\\CustomerController.cs*",
+              "RelativeToolTip": "Aula5\\Controllers\\CustomerController.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAIAwwGoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:24:45.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
