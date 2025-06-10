@@ -80,3 +80,38 @@ Bordões:
  . Escreva classes e métodos de modo que eles possam ser reaproveitados; 
 
 PADRÃO DE REPOSITÓRIO
+
+Pesquise:
+Padrão CQRS
+Commands and Queries
+
+Se tem o nome da classe, é o método construtor.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2 Formas de estrututar dados em arquivos...
+
+1 - Estrutura Delimitado
+
+Separar texto por delimitadores, por exemplo, ponto e vírgula (;), vírgula (,)...
+
+2 - Tamanho Fixo
+
+Por exemplo, boleto bancário:
+00190.45285 72568.633605 00002.217115 7 59420000070868
+
+001 - Código do banco
+90.45285 72568.6 - Nosso número
+3360 - Agência
+00002.217 - Código Cedente
+00000000070868 - Valor Documento
+
+
+Grids Bootstrap (container)
+
+100% por padrão = 12 col 
+
+Atividade:
+
+Faça o update, agora vai ser tipo um lapis no qual vc irá poder editar as informações.
+
